@@ -1,5 +1,5 @@
 # final-project
-team members: Jason Kushner, Jack McGreevy, Samantha Loya Garcia, Mehr Showkat
+team members: Jason Kushner, Jack McGreevy, Mehr Showkat
 
 DATA files:
 
